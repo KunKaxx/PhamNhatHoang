@@ -10,9 +10,9 @@ on:
   pull_request:
     branches: [ main ]
 push:
-branches:[ main :main ]
+branches:{[ main ] : [ main ]}
 Pull_request:
-branches: [ master :master ]
+branches: {[ master ] : [ master ]}
 [{Continue with all treatment with 250 commits aboveboard }
 {Authorities reload and finish all unit when errors}
 {Automatically delete or fix minimal of problems}]
